@@ -1,10 +1,10 @@
-# cypress-conduit-suite
+# cypress-e2e-suite
 
 A Cypress 13 test suite for [DemoQA Book Store](https://demoqa.com/books) demonstrating UI regression testing and REST API testing in a single project.
 
-![CI](https://github.com/tresajohn/cypress-conduit-suite/actions/workflows/cypress.yml/badge.svg)
+![CI](https://github.com/tresajohn/cypress-e2e-suite/actions/workflows/cypress.yml/badge.svg)
 
-**[View Allure Test Report](https://tresajohn.github.io/cypress-conduit-suite)**
+**[View Allure Test Report](https://tresajohn.github.io/cypress-e2e-suite)**
 
 ---
 
@@ -31,8 +31,8 @@ A Cypress 13 test suite for [DemoQA Book Store](https://demoqa.com/books) demons
 ## Local setup
 
 ```bash
-git clone https://github.com/tresajohn/cypress-conduit-suite.git
-cd cypress-conduit-suite
+git clone https://github.com/tresajohn/cypress-e2e-suite.git
+cd cypress-e2e-suite
 npm install
 ```
 
