@@ -1,0 +1,21 @@
+{
+  "name": "cypress-conduit-suite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "allure-commandline": "^2.46.1",
+    "allure-cypress": "^3.14.0",
+    "cypress": "^13.17.0"
+  }
+}
